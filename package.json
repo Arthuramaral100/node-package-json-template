@@ -1,0 +1,26 @@
+{
+  "name": "package-json-template",
+  "version": "1.0.0",
+  "description": "**Vamos utilizar esse repositório para as práticas da aula!**",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "clear && node index.js",
+    "brasil": "clear && node pratica1.js brazil",
+    "letterb":"clear && node pratica2.js B",
+    "new": "clear && node pratica3.js",
+    "hello": "clear && node pratica4.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthuramaral100/node-package-json-template.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthuramaral100/node-package-json-template/issues"
+  },
+  "homepage": "https://github.com/Arthuramaral100/node-package-json-template#readme"
+}
